@@ -4,6 +4,7 @@ if($value==0)
 {
     echo "true";
     echo "true";
+    echo "true";
 }
     else{
     echo "false";
